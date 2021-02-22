@@ -11,4 +11,4 @@ As we move further into this digital age, the need for charities to grow their o
 
 Transanctions are powered by [RazorPay](http://razorpay.com/).
 
-See the website's live implementation [here](https://tarun-kamboj.github.io/charity_web).
+See the website's live implementation [here](https://tarun-kamboj.github.io/Charity_Web/).
